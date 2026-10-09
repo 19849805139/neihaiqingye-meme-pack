@@ -1,0 +1,89 @@
+{
+  "source_collection": "内海青叶",
+  "images": [
+    {
+      "source_index": 1,
+      "source_name": "photo_2026-10-06_16-55-25.jpg",
+      "category": "happy",
+      "filename": "happy_cheer.jpg",
+      "path": "memes/happy/happy_cheer.jpg",
+      "sha256": "8c1c451ac20f1a13b4cda158cfeb6ced5e37093d2f0e914d0157f5f7fb3fd077",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 2,
+      "source_name": "photo_2026-10-06_16-55-25 (2).jpg",
+      "category": "sad",
+      "filename": "sad_cry.jpg",
+      "path": "memes/sad/sad_cry.jpg",
+      "sha256": "1e0e9a0ebb97855c4542109ec835d014b299900c455856e6702cd683a7fc9ca5",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 3,
+      "source_name": "photo_2026-10-06_16-55-26.jpg",
+      "category": "speechless",
+      "filename": "speechless_blank.jpg",
+      "path": "memes/speechless/speechless_blank.jpg",
+      "sha256": "8e879f825734afff08a6f58b00f9b1738735f0ab51f28ec82b125e64c54475d6",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 4,
+      "source_name": "photo_2026-10-06_16-55-26 (2).jpg",
+      "category": "sleep",
+      "filename": "sleep_zzz.jpg",
+      "path": "memes/sleep/sleep_zzz.jpg",
+      "sha256": "e001cef96e96c85a52ffddd31b4ab34723ea145ddc5d3ee2004f53f9afd16d00",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 5,
+      "source_name": "photo_2026-10-06_16-55-26 (3).jpg",
+      "category": "refuse",
+      "filename": "refuse_no.jpg",
+      "path": "memes/refuse/refuse_no.jpg",
+      "sha256": "1602a08d4783d34541cb1189a3bfcbcacfdc2bcfeb12540b6d66193b0f0cadd3",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 6,
+      "source_name": "photo_2026-10-06_16-55-27.jpg",
+      "category": "bored",
+      "filename": "bored_bye.jpg",
+      "path": "memes/bored/bored_bye.jpg",
+      "sha256": "4e8a29a2c6462b13707707fa01562019326b3fa09e0b59c79490c6e3b42ae949",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_index": 7,
+      "source_name": "7e2b814e-6dec-4d05-9487-b36ea0fd18be.png",
+      "category": "shy",
+      "filename": "shy_blush.png",
+      "path": "memes/shy/shy_blush.png",
+      "sha256": "a8245392794200059f6a49f111e988e62b0fc5072984b05270acc8a1f4d84243",
+      "size": [
+        1254,
+        1254
+      ]
+    }
+  ]
+}

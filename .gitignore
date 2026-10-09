@@ -1,0 +1,33 @@
+# ---- 安全：禁止提交任何密钥 / 凭据 ----
+.env
+.env.*
+*.token
+*.key
+*.pem
+*_token*
+*secret*
+token.txt
+.gh_token*
+.credentials*
+
+# ---- AstrBot 运行时数据（内含 API key，绝不上传） ----
+data/
+plugin_data/
+cmd_config.json
+config/
+*.db
+*.db-wal
+*.db-shm
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- 临时 ----
+*.tmp
+*.bak
+*.log
+__pycache__/

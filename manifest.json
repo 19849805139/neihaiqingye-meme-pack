@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "id": "neihaiqingye",
+  "name": "内海青叶",
+  "version": "1.0.0",
+  "description": "收录 7 张「内海青叶」不同情绪的静态表情，按 7 个聊天语义类别整理，适合日常回复、情绪表达与人设互动。",
+  "author": "主体",
+  "maintainer": "主体",
+  "homepage": "https://github.com/19849805139/neihaiqingye-meme-pack",
+  "license": "仅限非商业使用；素材版权归原作者",
+  "tags": [
+    "neihaiqingye",
+    "anime",
+    "static",
+    "meme-pack"
+  ],
+  "icon": "previews/cover.jpg",
+  "previews": [
+    "previews/cover.jpg"
+  ],
+  "compat": {
+    "min_plugin_version": "4.0.0"
+  },
+  "categories": {
+    "happy": {
+      "description": "用于开心、欢呼、庆祝、事情顺利或期待好消息等积极情绪。"
+    },
+    "sad": {
+      "description": "用于难过、委屈、哭泣、受挫或表达歉意。"
+    },
+    "speechless": {
+      "description": "用于无语、沉默、被对方的发言整不会了、不知道该怎么接话。"
+    },
+    "sleep": {
+      "description": "用于困倦、想睡觉、熬夜、加班太累想休息。"
+    },
+    "refuse": {
+      "description": "用于嫌弃、拒绝、让对方别过来、明确表示不接受。"
+    },
+    "bored": {
+      "description": "用于觉得无聊、不想继续、想先离开或干脆告辞。"
+    },
+    "shy": {
+      "description": "用于害羞、脸红、被夸、被摸头或不好意思的回应。"
+    }
+  }
+}
